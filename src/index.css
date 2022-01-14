@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.index
+{
+    width:10px;
+    height: 20px;
+    background-color: darkgoldenrod;
+}
+.images
+{
+    width: 290px;
+    height: 350px;
+    padding: 50px;
+    border: 1px solid lightgrey;
+   display: inline-block;
+   margin-left: 50px;
+   margin-top: 20px;
+
+}
+.title
+{
+    text-align: center;
+    color:lightslategrey;
+}
+.title:hover{
+    color:tomato;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.author
+{
+    text-align: center;
+}
