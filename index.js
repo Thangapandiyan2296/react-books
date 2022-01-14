@@ -131,33 +131,33 @@ ReactDom.render(<BookList/>,document.getElementById('root'))*/
 
 const FirstBook = {
   img:'https://images-eu.ssl-images-amazon.com/images/I/71g2ednj0JL._AC_UL200_SR200,200_.jpg',
-  Title: 'Atomic',
-  Author: 'James',
+  Title: 'Phsychology of money',
+  Author: 'Morgan Housal',
 }
 const SecondBook={
 img:'https://images-eu.ssl-images-amazon.com/images/I/91bYsX41DVL._AC_UL200_SR200,200_.jpg',
-  Title: 'Global Area',
-  Author: 'Morgan',
+  Title: 'Atomic Habits',
+  Author: 'James Clear',
 }
 const ThirdBook={
   img:'https://images-eu.ssl-images-amazon.com/images/I/41%2BgrDTP2FL._AC_UL200_SR200,200_.jpg',
-    Title: 'Global Area',
-    Author: 'Morgan',
+    Title: 'Do Epic Shit',
+    Author: 'Angur',
   }
   const FourthBook={
     img:'https://images-eu.ssl-images-amazon.com/images/I/81l3rZK4lnL._AC_UL200_SR200,200_.jpg',
-      Title: 'Global Area',
+      Title: 'Global Area Ikigai',
       Author: 'Morgan',
     }
     const FifthBook={
       img:'https://images-eu.ssl-images-amazon.com/images/I/818e%2Bfq7%2BBL._AC_UL200_SR200,200_.jpg',
-        Title: 'Global Area',
-        Author: 'Morgan',
+        Title: 'World Power...',
+        Author: 'Norman Easy',
       }
       const SixthBook={
         img:'https://images-eu.ssl-images-amazon.com/images/I/711c-uf6AFL._AC_UL200_SR200,200_.jpg',
-          Title: 'Global Area',
-          Author: 'Morgan',
+          Title: 'My First Liberary',
+          Author: 'Jack Dhass',
         }
         const SeventhBook={
           img:'https://images-eu.ssl-images-amazon.com/images/I/9173YBkMIsL._AC_UL200_SR200,200_.jpg',
